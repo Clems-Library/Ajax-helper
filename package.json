@@ -1,0 +1,19 @@
+{
+  "name": "ajax-helper",
+  "version": "1.0.0",
+  "description": "simple tools to speed up ajax calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clems-Library/Ajax-helper.git"
+  },
+  "author": "Clems-web",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clems-Library/Ajax-helper/issues"
+  },
+  "homepage": "https://github.com/Clems-Library/Ajax-helper#readme"
+}
