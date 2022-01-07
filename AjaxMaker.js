@@ -1,5 +1,5 @@
 /**
- * Simple object
+ * Simple object to help with ajax request
  */
 export default class AjaxMaker {
 
@@ -17,5 +17,8 @@ export default class AjaxMaker {
         }
     }
 
+    sayHello() {
+        console.log('coucou');
+    }
 
 }
